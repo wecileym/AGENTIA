@@ -1,0 +1,62 @@
+Qual é o horário de funcionamento da empresa?
+A empresa funciona de segunda a sexta, das 8h às 18h.
+
+Como posso entrar em contato com o suporte?
+Envie um e-mail para suporte@empresa.com ou ligue para (11) 99999-9999.
+
+O que é RAG?
+RAG significa Retrieval-Augmented Generation, uma técnica que combina busca com geração de texto.
+
+Quais são os principais produtos oferecidos?
+Oferecemos soluções em automação, inteligência artificial e consultoria tecnológica.
+
+Como funciona o sistema de recomendação?
+Ele utiliza embeddings vetoriais para comparar similaridade entre perguntas e respostas.
+
+O que é embedding?
+É uma representação numérica de um texto que permite comparações semânticas.
+
+Como posso atualizar minha base de conhecimento?
+Adicione novos arquivos `.txt` ou `.md` na pasta `knowledge/` e reconstrua o índice.
+
+Quais são os diferenciais da empresa?
+Atendimento personalizado, tecnologia de ponta e foco em resultados.
+
+O que é um chunk?
+É uma divisão de texto em partes menores para facilitar a vetorização e busca.
+
+Como funciona o modelo LLaMA?
+LLaMA é um modelo de linguagem treinado para gerar respostas naturais com base em contexto.
+
+Quais são os planos de assinatura?
+Oferecemos planos mensal, trimestral e anual com diferentes níveis de suporte.
+
+Como posso cancelar minha assinatura?
+Envie um e-mail para cancelamento@empresa.com com seu ID de cliente.
+
+O que é um pipeline de IA?
+É uma sequência de etapas que processa dados e gera respostas automatizadas.
+
+Quais são os requisitos para usar o bot?
+Ter o WhatsApp instalado e escanear o QR code gerado pelo sistema.
+
+Como posso treinar meu próprio modelo?
+Você pode usar bibliotecas como HuggingFace Transformers e datasets personalizados.
+
+O que é similaridade coseno?
+É uma métrica que mede a proximidade entre dois vetores de texto.
+
+Como funciona o sistema de reindexação?
+Ele lê os arquivos da pasta `knowledge/`, gera embeddings e salva no `vector_index.json`.
+
+Quais são os canais de atendimento?
+WhatsApp, e-mail, telefone e chat online.
+
+Qual é a missão da empresa?
+Democratizar o acesso à inteligência artificial de forma ética e eficiente.
+
+Quais são os benefícios da automação?
+Redução de erros, aumento de produtividade e economia de tempo.
+
+Terceiro planeta do sistema Solar?
+Marte.
